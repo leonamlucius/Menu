@@ -1,0 +1,26 @@
+*{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      
+}
+.nav{
+    background-color: rgb(70, 220, 187);
+    height: 50px;
+    width: 980px;
+    border-radius: 20px;
+    position: relative;
+    margin: auto;
+}
+.imgMenu{
+    position:relative;
+    width: 3.5em;
+    left: 0;
+}
+.quadrado{
+    position: absolute;
+    background-color: crimson;
+    width: 200px;
+    height: 300px;
+    border-radius: 20px;
+}
